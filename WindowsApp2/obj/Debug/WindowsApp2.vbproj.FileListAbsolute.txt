@@ -1,0 +1,48 @@
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\colli\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\alls\Downloads\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\yh\Downloads\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.pdb
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\bin\Debug\WindowsApp2.exe
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\bin\Debug\WindowsApp2.pdb
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\bin\Debug\WindowsApp2.xml
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.exe
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.xml
+G:\Projects\Checked Proxy Scraper\New folder (13)\WindowsApp2\obj\Debug\WindowsApp2.pdb
